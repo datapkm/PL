@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,ANTV
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#EXTINF:-1,INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1,MNC TV
+https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1,RCTI
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1,SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1,METRO TV
+http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1,KOMPAS TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:-1,TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1,TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+#EXTINF:-1,GLOBAL TV
+https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1,TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
+#EXTINF:-1,CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
+#EXTINF:-1,CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+#EXTINF:-1,TV ONE
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1,INEWS
+https://allcutv.rctiplus.id/inews2023.m3u8
+#EXTINF:-1,RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF:-1,NET TV
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1,MOJI TV
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1,BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1,NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1,BN CHANNEL
+https://flv.intechmedia.net/live/ch112.m3u8
+#EXTINF:-1,IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1,VTV
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1,DAAI
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1,INDONESIANA TV
+https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:-1,MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1,INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
