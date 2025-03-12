@@ -1,313 +1,265 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
-http://code-app.web.id/redirect.php?hash=22516654c3ec313389d3ed569414e5825d1adf918dc7c204b2cfbfe7420cbcdb
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
-http://code-app.web.id/redirect.php?hash=22516654c3ec313389d3ed569414e5825d1adf918dc7c204b2cfbfe7420cbcdb
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
-http://code-app.web.id/redirect.php?hash=22516654c3ec313389d3ed569414e5825d1adf918dc7c204b2cfbfe7420cbcdb
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
-http://code-app.web.id/redirect.php?hash=22516654c3ec313389d3ed569414e5825d1adf918dc7c204b2cfbfe7420cbcdb
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
-http://code-app.web.id/redirect.php?hash=22516654c3ec313389d3ed569414e5825d1adf918dc7c204b2cfbfe7420cbcdb
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png", |  SCTV
-http://code-app.web.id/redirect.php?hash=2971add2358769c2915c95ea6a110568b754f686d8bd40f0c606a9d31780b309
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png", |  SCTV
-http://code-app.web.id/redirect.php?hash=2971add2358769c2915c95ea6a110568b754f686d8bd40f0c606a9d31780b309
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png", |  SCTV
-http://code-app.web.id/redirect.php?hash=2971add2358769c2915c95ea6a110568b754f686d8bd40f0c606a9d31780b309
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="MOJI Proliga Volley" tvg-logo="https://iili.io/39ciYfS.png", | MOJI Proliga Volley
-http://code-app.web.id/redirect.php?hash=6d0a0ecc3c366041ba8b25579c4d76a79c89efce03d4780a8887a237dda63450
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="MOJI Proliga Volley" tvg-logo="https://iili.io/39ciYfS.png", | MOJI Proliga Volley
-http://code-app.web.id/redirect.php?hash=6d0a0ecc3c366041ba8b25579c4d76a79c89efce03d4780a8887a237dda63450
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="MOJI Proliga Volley" tvg-logo="https://iili.io/39ciYfS.png", | MOJI Proliga Volley
-http://code-app.web.id/redirect.php?hash=6d0a0ecc3c366041ba8b25579c4d76a79c89efce03d4780a8887a237dda63450
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="MOJI Proliga Volley (EVENT)" tvg-logo="https://iili.io/39ciYfS.png", | MOJI Proliga Volley (EVENT)
-http://code-app.web.id/play.m3u8?hash=6f94332c4b47d7df6226bf0b89a921b6f32b088060d3dd93eba540d962df8017
-#EXTINF:-1 tvg-id="Champions TV 1.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 1" tvg-logo="https://iili.io/2lP4Kq7.png", | Champions TV 1
-http://code-app.web.id/play.mpd?hash=b0f276d935777eeffc74d2d0d2902e291280f0b91da874f4fab034a001fb51b3
-#EXTINF:-1 tvg-id="Champions TV 2.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 2" tvg-logo="https://iili.io/2lP43sS.png", | Champions TV 2
-http://code-app.web.id/play.mpd?hash=57620d7179ebd6d79d1c98f2caaf31efe7eb8df2b6d0edcd8f23167d3925f835
-#EXTINF:-1 tvg-id="Champions TV 3.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 3" tvg-logo="https://iili.io/2lP42X2.png", | Champions TV 3
-http://code-app.web.id/play.mpd?hash=b80c96ddd0fb9b838795c88a968bc35b47c8a041011da256ab3fb9d9bc211969
-#EXTINF:-1 tvg-id="Champions TV 5.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 5" tvg-logo="https://iili.io/2lP4dzl.png", | Champions TV 5
-http://code-app.web.id/play.mpd?hash=5213cb92f248dbd9e9de2f43ac86577102d47b1e8e123b9647a5735e29d5e7ab
-#EXTINF:-1 tvg-id="Champions TV 6.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 6" tvg-logo="https://iili.io/2lP4f19.png", | Champions TV 6
-http://code-app.web.id/play.mpd?hash=95f9cd99392e2ca2180c2ed1423753fbcaa2b6a1f6b93e5126c88f4c6c13e3f8
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" SERI A LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", |  SERI A LIVE
-http://code-app.web.id/play.mpd?hash=b0f276d935777eeffc74d2d0d2902e291280f0b91da874f4fab034a001fb51b3
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" SERI A LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", |  SERI A LIVE
-http://code-app.web.id/play.mpd?hash=b0f276d935777eeffc74d2d0d2902e291280f0b91da874f4fab034a001fb51b3
-#EXTINF:-1 tvg-id="Champions TV 1.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 1" tvg-logo="https://iili.io/2lP4Kq7.png", | Champions TV 1
-http://code-app.web.id/play.mpd?hash=b0f276d935777eeffc74d2d0d2902e291280f0b91da874f4fab034a001fb51b3
-#EXTINF:-1 tvg-id="Champions TV 2.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 2" tvg-logo="https://iili.io/2lP43sS.png", | Champions TV 2
-http://code-app.web.id/play.mpd?hash=57620d7179ebd6d79d1c98f2caaf31efe7eb8df2b6d0edcd8f23167d3925f835
-#EXTINF:-1 tvg-id="Champions TV 3.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 3" tvg-logo="https://iili.io/2lP42X2.png", | Champions TV 3
-http://code-app.web.id/play.mpd?hash=b80c96ddd0fb9b838795c88a968bc35b47c8a041011da256ab3fb9d9bc211969
-#EXTINF:-1 tvg-id="Champions TV 5.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 5" tvg-logo="https://iili.io/2lP4dzl.png", | Champions TV 5
-http://code-app.web.id/play.mpd?hash=5213cb92f248dbd9e9de2f43ac86577102d47b1e8e123b9647a5735e29d5e7ab
-#EXTINF:-1 tvg-id="Champions TV 6.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 6" tvg-logo="https://iili.io/2lP4f19.png", | Champions TV 6
-http://code-app.web.id/play.mpd?hash=95f9cd99392e2ca2180c2ed1423753fbcaa2b6a1f6b93e5126c88f4c6c13e3f8
-#EXTINF:-1 tvg-id="Premier League TV" group-title="SPORTS LOKAL" tvg-name="Premier League TV" tvg-logo="https://thumbor.prod.vidiocdn.com/2Q9rxrzgEWRJUld4uWVPWzTP5Ok=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", | Premier League TV
-http://code-app.web.id/play.mpd?hash=b94867f23a96af3d9a07d0e051d76acc64f8985806f750aac93223e82521941d
-#EXTINF:-1 tvg-id="Premier League TV" group-title="SPORTS LOKAL" tvg-name="Premier League TV" tvg-logo="https://thumbor.prod.vidiocdn.com/2Q9rxrzgEWRJUld4uWVPWzTP5Ok=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", | Premier League TV
-http://code-app.web.id/play.mpd?hash=b94867f23a96af3d9a07d0e051d76acc64f8985806f750aac93223e82521941d
-#EXTINF:-1 tvg-id="Bein 1" group-title="SPORTS LOKAL" tvg-name="Bein 1" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg", | Bein 1
-http://code-app.web.id/redirect.php?hash=9f0273a9b0b1d2ecad09f062b0ad0272961a7fdc5a87c281e7a0100936a516dd
-#EXTINF:-1 tvg-id="beIN SPORTS 2.my" group-title="SPORTS LOKAL" tvg-name="Bein 2" tvg-logo="https://thumbor.prod.vidiocdn.com/4Gq0GkWs-JKQ0i7xVY6j7Uap14Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-e66e44.jpg", | Bein 2
-http://code-app.web.id/redirect.php?hash=9fa819991a9e8fb7b0dc53aad59461fb854a347ed3059f7b7b4b1a0c8874476d
-#EXTINF:-1 tvg-id="Bein 3" group-title="SPORTS LOKAL" tvg-name="Bein 3" tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg", | Bein 3
-http://code-app.web.id/redirect.php?hash=4582a63c66997cb8014ee13779374ac99d2b816912df1b143374e230ff6178db
-#EXTINF:-1 tvg-id="SPOTV.id" group-title="Olahraga - urfan.id" tvg-name="SPOTV" tvg-logo="https://cdn.urfan.id/logo/spotv.png", | SPOTV
-http://code-app.web.id/play.mpd?hash=0f4486d9a57e5c211912782825f64a17a4f5181f3f265c5e7614111db059b86f
-#EXTINF:-1 tvg-id="SPOTV 2.id" group-title="Olahraga - urfan.id" tvg-name="SPOTV 2" tvg-logo="https://cdn.urfan.id/logo/spotv2.png", | SPOTV 2
-http://code-app.web.id/play.mpd?hash=8273c0a6919b192ff6a94b6122416a27383876e07da4383d46e83b5330f350d9
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" EPL LIVE 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yP0WWKBKr8erTXdidvl32cJwu11JxWyzlg&s", |  EPL LIVE 1
-http://code-app.web.id/redirect.php?hash=5010e3253c53d2cc433a66f984ff00a7b4aee68a90336a8695747e5de6292907
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" NBA TV" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a9muho2q6vod1hv0y84x2sihe_image-header_pDach_1661948923000&quality=70", |  NBA TV
-http://code-app.web.id/redirect.php?hash=279614eaf7d3a1875cb14a1a22837d262a142eb57da063a7dd533c33922f80f1
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" EPL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yP0WWKBKr8erTXdidvl32cJwu11JxWyzlg&s", |  EPL TV
-http://code-app.web.id/redirect.php?hash=3b9ba862e323c23aa31e908b2523bf260706a4929d736d223d5d5b33e6805111
-#EXTINF:-1 tvg-id="beINSports" group-title="SPORTS LOKAL" tvg-name=" beIN Sports 1 (V+)" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", |  beIN Sports 1 (V+)
-http://code-app.web.id/play.mpd?hash=14f1c1d59513dc815bb82f6a3ee66feeb4313cd07599483aa280044e5fda0714
-#EXTINF:-1 tvg-id="beINSports2" group-title="SPORTS LOKAL" tvg-name=" beIN Sports 2 (V+)" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", |  beIN Sports 2 (V+)
-http://code-app.web.id/play.mpd?hash=9545dce160f2e59ee7213a81c872f8a304b9877ff2f58b064ebaa1811dab1327
-#EXTINF:-1 tvg-id="beINSports3" group-title="SPORTS LOKAL" tvg-name=" beIN Sports 3 (V+)" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", |  beIN Sports 3 (V+)
-http://code-app.web.id/play.mpd?hash=6ef8f37f2378ac92d47b9976a02ac919dbe6679b90b297d0c7b105a408c93384
-#EXTINF:-1 tvg-id="beINSports4" group-title="SPORTS LOKAL" tvg-name=" beIN Sports 4 (V+)" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", |  beIN Sports 4 (V+)
-http://code-app.web.id/play.mpd?hash=48b190ffbb2e38699e06c86a5f6b7841306172d65badad3d37e875b36864e4bd
-#EXTINF:-1 tvg-id="beINSports5" group-title="SPORTS LOKAL" tvg-name=" beIN Sports 5 (V+)" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", |  beIN Sports 5 (V+)
-http://code-app.web.id/play.mpd?hash=c5a126b04c0dee214fa31a40fcd1c967ffa0f8f72ca2385b37153dc351cf4aee
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="BEIN SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", | BEIN SPORT 1
-http://code-app.web.id/play.mpd?hash=5de43841ae65d2014b54f30264aa4fb3ad2db6af03f5c5f356c6de73b7f347ec
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="BEIN SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png", | BEIN SPORT 2
-http://code-app.web.id/play.mpd?hash=3525a448b17f4dddc8751c3772a022d86bf2cb4e99c5998f5c3039038ea162e8
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="BEIN SPORT 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_170_122", | BEIN SPORT 3
-http://code-app.web.id/play.mpd?hash=9d7e47fc3436b368399f3292b7119814efe08352b4d42e76096ed92d153636bd
-#EXTINF:-1 tvg-id="beIN SPORTS 4 (HD).sg" group-title="SPORTS LOKAL" tvg-name=" BEIN SPORT 4" tvg-logo="https://i.ibb.co.com/b7vxrzY/Beinsport4.png", |  BEIN SPORT 4
-http://code-app.web.id/play.mpd?hash=a7379a899fb485af28c634989f33c13bbade0d73d664539c71b82d515b6fe0e3
-#EXTINF:-1 tvg-id="beIN SPORT 5 (HD).sg" group-title="SPORTS LOKAL" tvg-name=" BEIN SPORT 5" tvg-logo="https://i.ibb.co.com/4273HXd/Beinsport5.png", |  BEIN SPORT 5
-http://code-app.web.id/play.mpd?hash=f278d13fc0e99cda1da14c93aee8dd5732ca35f8bd8ac44c8233d389d72caa70
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Fight Sports (V+)" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png", | Fight Sports (V+)
-http://code-app.web.id/play.mpd?hash=6f1d931054dc6a678e2252a50e6d9a0fd3866858809ed6b4d1b061a19a80c792
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Horizon Sport (DNS)" tvg-logo="https://images.indihometv.com/logo_horizonsport_ver2.png", | Horizon Sport (DNS)
-http://code-app.web.id/play.m3u8?hash=a863ceb3141d7d173f056f1902f7933787f92d4d6579db06f48cc168f791a275
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Motor Racing (DNS)" tvg-logo="https://www.dens.tv/images/channel-logo/120.jpg", | Motor Racing (DNS)
-http://code-app.web.id/play.m3u8?hash=857a0a81867c19602617d3725c8ccdf7556e5979b56b24bd4521b3ca92cc12fa
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Motorvision+ (DNS)" tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg", | Motorvision+ (DNS)
-http://code-app.web.id/play.m3u8?hash=f725e0f521da4f2968b815787480d9cbbf512c5c0595f7003798cb9dedfcde33
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Soccer Channel (V+)" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png", | Soccer Channel (V+)
-http://code-app.web.id/play.m3u8?hash=3c725b9c8ce52ac931f9a8b4cd1a9ab644f0759d09e767b242c07f98a4db1359
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Sportstars 1" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png", | Sportstars 1
-http://code-app.web.id/play.mpd?hash=fe7e803a61f224c9113c22169fd0b397432e2a77c44eabf21027d67db373f512
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Sportstars 1" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png", | Sportstars 1
-http://code-app.web.id/play.mpd?hash=fe7e803a61f224c9113c22169fd0b397432e2a77c44eabf21027d67db373f512
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Sportstars 1" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png", | Sportstars 1
-http://code-app.web.id/play.mpd?hash=fe7e803a61f224c9113c22169fd0b397432e2a77c44eabf21027d67db373f512
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Sportstars 1" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png", | Sportstars 1
-http://code-app.web.id/play.mpd?hash=fe7e803a61f224c9113c22169fd0b397432e2a77c44eabf21027d67db373f512
-#EXTINF:-1 tvg-id="Sportstars 2.id" group-title="Olahraga - urfan.id" tvg-name="Sportstars 2" tvg-logo="https://cdn.urfan.id/logo/sportstars2.png", | Sportstars 2
-http://code-app.web.id/play.mpd?hash=10f51ae4cac67740dd2174a2002878a86336d26d08a8fc82b3c6a341e729cb2a
-#EXTINF:-1 tvg-id="Sportstars 2.id" group-title="Olahraga - urfan.id" tvg-name="Sportstars 2" tvg-logo="https://cdn.urfan.id/logo/sportstars2.png", | Sportstars 2
-http://code-app.web.id/play.mpd?hash=10f51ae4cac67740dd2174a2002878a86336d26d08a8fc82b3c6a341e729cb2a
-#EXTINF:-1 tvg-id="Sportstars 2.id" group-title="Olahraga - urfan.id" tvg-name="Sportstars 2" tvg-logo="https://cdn.urfan.id/logo/sportstars2.png", | Sportstars 2
-http://code-app.web.id/play.mpd?hash=10f51ae4cac67740dd2174a2002878a86336d26d08a8fc82b3c6a341e729cb2a
-#EXTINF:-1 tvg-id="Sportstars 2.id" group-title="Olahraga - urfan.id" tvg-name="Sportstars 2" tvg-logo="https://cdn.urfan.id/logo/sportstars2.png", | Sportstars 2
-http://code-app.web.id/play.mpd?hash=10f51ae4cac67740dd2174a2002878a86336d26d08a8fc82b3c6a341e729cb2a
-#EXTINF:-1 tvg-id="SS3" group-title="SPORTS LOKAL" tvg-name=" SPORTSTARS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", |  SPORTSTARS 3
-http://code-app.web.id/play.mpd?hash=300896ae9edec57b27d89b0f469fde1e613009afd827216244db705e0da32d86
-#EXTINF:-1 tvg-id="SS4" group-title="SPORTS LOKAL" tvg-name=" SPORTSTARS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png", |  SPORTSTARS 4 HD
-http://code-app.web.id/play.mpd?hash=5cba03b6a82e08f2dd3cf89e529aff3c3d45ccdbd8b0922fe53dd8431401952a
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" PSJ TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4H0UwKvsEtvscNX69qd6gwps2m65V0J7iuA&usqp=CAU", |  PSJ TV
-http://code-app.web.id/play.m3u8?hash=e0fe8a9ea711fad68e227308d977202cea02e2111c3f2caf06199c06bd888104
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="SpoTV (V+)" tvg-logo="https://img.logo-cdn.cc/sportsspotv.png", | SpoTV (V+)
-http://code-app.web.id/play.mpd?hash=c2f39028fa2d208ab7bf4221ac699baf10ffe9c66c0acfbcf3c7faf737315b10
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="SpoTV 2 (V+)" tvg-logo="https://img.logo-cdn.cc/sportsspotv2.png", | SpoTV 2 (V+)
-http://code-app.web.id/play.mpd?hash=0cc32de9f6d261cd8ae934ff4581ddb0c8a3ad129a5c8321dc3fd63387ee922d
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Eurosport HD (FMX)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhNq4kBDjEWVVd0NnMCwhqPYaddZgSbTnnA&usqp=CAU", | Eurosport HD (FMX)
-http://code-app.web.id/play.mpd?hash=4e0ddac224d250af878565c7d336db4be9de6f738b7c5414381f329fd5efa184
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="SPOTV (FMX)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsL11Yy9FEemPymTKFTuKCVRlufgmZ12R2dQ&usqp=CAU", | SPOTV (FMX)
-http://code-app.web.id/play.mpd?hash=f9eae7b8c48e2bc550d5a75e89ad022431e4bd72698505a5d933de6503a1ce9e
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="SPOTV 2 (FMX)" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20SD-FirstMedia-Chl-140.jpg&w=1920&q=100", | SPOTV 2 (FMX)
-http://code-app.web.id/play.mpd?hash=39600bc60ba878dbca2a052819e16a7bf0f7560c3fec4346f7d69ab692959cc5
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Soccer Channel-HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png", | Soccer Channel-HD
-http://code-app.web.id/play.mpd?hash=a04d4d54182122dc4fafaea2056125f7228b96353364a9fdd0820488655fb232
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="TVRI Sport (Dens)" tvg-logo="https://i.ibb.co/42dwcpw/Tvri-sport-hometv.jpg", | TVRI Sport (Dens)
-http://code-app.web.id/play.m3u8?hash=8ac4fba701417505e375129d26520a148064594a671db3e90a1c0102d7ab4b2e
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" TVRI SPORT WEB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s", |  TVRI SPORT WEB
-http://code-app.web.id/redirect.php?hash=47ea5727cacede7749e9569a9cf66635de79b1a63bc80682ae8286e716d9c37b
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Wsport (DNS)" tvg-logo="https://www.dens.tv/images/channel-logo/123.jpg", | Wsport (DNS)
-http://code-app.web.id/play.m3u8?hash=fd906b7d071a657bc09952d8b83753517cc03512b78ae560b31fc5b12834b880
-#EXTINF:-1 tvg-id="golf.id" group-title="Olahraga - urfan.id" tvg-name="Golf+" tvg-logo="https://cdn.urfan.id/logo/golf+.png", | Golf+
-http://code-app.web.id/play.mpd?hash=b78b309cc7b834bf1307b3394ee32ff365d64f639033c0a8b8aec65981d86783
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Football TV (CUBMU)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbVQRXaV4mmzu6JElzDRkc10pu1d0kxQWVVg&usqp=CAU", | Football TV (CUBMU)
-http://code-app.web.id/play.mpd?hash=0c2821ad604d3933fd2eec5fe016179854d5f863add930e9bac82064911b30dd
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Historical Sports (CUBMU)" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68578b331d80178b98f30f521de/a183b673e94841bd8aba200be9599aac.png", | Historical Sports (CUBMU)
-http://code-app.web.id/play.mpd?hash=51a214509c18751f2ab267faaa323a42d5d1a531830c3a745557c926b4283e35
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Horizon Sports (CUBMU)" tvg-logo="https://www.transvision.co.id/img/channel/horizon_sports.png", | Horizon Sports (CUBMU)
-http://code-app.web.id/play.mpd?hash=600e5a6d0835b6d4114b43277bb3c5c0305ee8e3bfb6a23b132971d9709a35b7
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Fight TV (CUBMU)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUQvwqEdRoGLc6sIDOfBPd48N7PTb-g4ANg&usqp=CAU", | Fight TV (CUBMU)
-http://code-app.web.id/play.mpd?hash=9f511d29501cf6528dc87437448ba06a2badbbb6df577857aaf510397ee5dac7
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="IDCyclist (CUBMU)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwC0IVntvUjuTWG5zm3EUuIRzgYmuY92v_6Q&usqp=CAU", | IDCyclist (CUBMU)
-http://code-app.web.id/play.mpd?hash=abfc75242276502fd942e5d60fcd3a5f1b3aa708abb84f31c1d54432d3108b33
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Xtrem Sports (CUBMU)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4LZwmwUHgXivUCnufIZ6xjD4ZV35YFKXUw&usqp=CAU", | Xtrem Sports (CUBMU)
-http://code-app.web.id/play.mpd?hash=d68b19d0aa1d2549d7bd2ba8b5654bc36295a48cb74ce7ac09b8a26b362a24dc
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Sports TV (CUBMU)" tvg-logo="https://www.transvision.co.id/img/channel/new/SPORTS%20TV.jpg", | Sports TV (CUBMU)
-http://code-app.web.id/play.mpd?hash=3f0ee69568c2edb341c8382131698c2390c0cd5a40a1107dd661ffbae25e68d7
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Speed TV (CUBMU)" tvg-logo="https://www.transvision.co.id/img/channel/new/Speed%20TV.jpg", | Speed TV (CUBMU)
-http://code-app.web.id/play.mpd?hash=d4356ba3dd9177585fe3d4b15cfed1f059d0df8c58d48577e211ec2f91138b3c
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
-http://code-app.web.id/redirect.php?hash=22516654c3ec313389d3ed569414e5825d1adf918dc7c204b2cfbfe7420cbcdb
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
-http://code-app.web.id/redirect.php?hash=22516654c3ec313389d3ed569414e5825d1adf918dc7c204b2cfbfe7420cbcdb
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
-http://code-app.web.id/redirect.php?hash=22516654c3ec313389d3ed569414e5825d1adf918dc7c204b2cfbfe7420cbcdb
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
-http://code-app.web.id/redirect.php?hash=22516654c3ec313389d3ed569414e5825d1adf918dc7c204b2cfbfe7420cbcdb
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
-http://code-app.web.id/redirect.php?hash=22516654c3ec313389d3ed569414e5825d1adf918dc7c204b2cfbfe7420cbcdb
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png", |  SCTV
-http://code-app.web.id/redirect.php?hash=2971add2358769c2915c95ea6a110568b754f686d8bd40f0c606a9d31780b309
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png", |  SCTV
-http://code-app.web.id/redirect.php?hash=2971add2358769c2915c95ea6a110568b754f686d8bd40f0c606a9d31780b309
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png", |  SCTV
-http://code-app.web.id/redirect.php?hash=2971add2358769c2915c95ea6a110568b754f686d8bd40f0c606a9d31780b309
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="MOJI Proliga Volley" tvg-logo="https://iili.io/39ciYfS.png", | MOJI Proliga Volley
-http://code-app.web.id/redirect.php?hash=6d0a0ecc3c366041ba8b25579c4d76a79c89efce03d4780a8887a237dda63450
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="MOJI Proliga Volley" tvg-logo="https://iili.io/39ciYfS.png", | MOJI Proliga Volley
-http://code-app.web.id/redirect.php?hash=6d0a0ecc3c366041ba8b25579c4d76a79c89efce03d4780a8887a237dda63450
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="MOJI Proliga Volley" tvg-logo="https://iili.io/39ciYfS.png", | MOJI Proliga Volley
-http://code-app.web.id/redirect.php?hash=6d0a0ecc3c366041ba8b25579c4d76a79c89efce03d4780a8887a237dda63450
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="MOJI Proliga Volley (EVENT)" tvg-logo="https://iili.io/39ciYfS.png", | MOJI Proliga Volley (EVENT)
-http://code-app.web.id/play.m3u8?hash=6f94332c4b47d7df6226bf0b89a921b6f32b088060d3dd93eba540d962df8017
-#EXTINF:-1 tvg-id="Champions TV 1.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 1" tvg-logo="https://iili.io/2lP4Kq7.png", | Champions TV 1
-http://code-app.web.id/play.mpd?hash=b0f276d935777eeffc74d2d0d2902e291280f0b91da874f4fab034a001fb51b3
-#EXTINF:-1 tvg-id="Champions TV 2.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 2" tvg-logo="https://iili.io/2lP43sS.png", | Champions TV 2
-http://code-app.web.id/play.mpd?hash=57620d7179ebd6d79d1c98f2caaf31efe7eb8df2b6d0edcd8f23167d3925f835
-#EXTINF:-1 tvg-id="Champions TV 3.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 3" tvg-logo="https://iili.io/2lP42X2.png", | Champions TV 3
-http://code-app.web.id/play.mpd?hash=b80c96ddd0fb9b838795c88a968bc35b47c8a041011da256ab3fb9d9bc211969
-#EXTINF:-1 tvg-id="Champions TV 5.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 5" tvg-logo="https://iili.io/2lP4dzl.png", | Champions TV 5
-http://code-app.web.id/play.mpd?hash=5213cb92f248dbd9e9de2f43ac86577102d47b1e8e123b9647a5735e29d5e7ab
-#EXTINF:-1 tvg-id="Champions TV 6.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 6" tvg-logo="https://iili.io/2lP4f19.png", | Champions TV 6
-http://code-app.web.id/play.mpd?hash=95f9cd99392e2ca2180c2ed1423753fbcaa2b6a1f6b93e5126c88f4c6c13e3f8
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" SERI A LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", |  SERI A LIVE
-http://code-app.web.id/play.mpd?hash=b0f276d935777eeffc74d2d0d2902e291280f0b91da874f4fab034a001fb51b3
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" SERI A LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", |  SERI A LIVE
-http://code-app.web.id/play.mpd?hash=b0f276d935777eeffc74d2d0d2902e291280f0b91da874f4fab034a001fb51b3
-#EXTINF:-1 tvg-id="Champions TV 1.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 1" tvg-logo="https://iili.io/2lP4Kq7.png", | Champions TV 1
-http://code-app.web.id/play.mpd?hash=b0f276d935777eeffc74d2d0d2902e291280f0b91da874f4fab034a001fb51b3
-#EXTINF:-1 tvg-id="Champions TV 2.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 2" tvg-logo="https://iili.io/2lP43sS.png", | Champions TV 2
-http://code-app.web.id/play.mpd?hash=57620d7179ebd6d79d1c98f2caaf31efe7eb8df2b6d0edcd8f23167d3925f835
-#EXTINF:-1 tvg-id="Champions TV 3.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 3" tvg-logo="https://iili.io/2lP42X2.png", | Champions TV 3
-http://code-app.web.id/play.mpd?hash=b80c96ddd0fb9b838795c88a968bc35b47c8a041011da256ab3fb9d9bc211969
-#EXTINF:-1 tvg-id="Champions TV 5.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 5" tvg-logo="https://iili.io/2lP4dzl.png", | Champions TV 5
-http://code-app.web.id/play.mpd?hash=5213cb92f248dbd9e9de2f43ac86577102d47b1e8e123b9647a5735e29d5e7ab
-#EXTINF:-1 tvg-id="Champions TV 6.id" group-title="SPORTS LOKAL" tvg-name="Champions TV 6" tvg-logo="https://iili.io/2lP4f19.png", | Champions TV 6
-http://code-app.web.id/play.mpd?hash=95f9cd99392e2ca2180c2ed1423753fbcaa2b6a1f6b93e5126c88f4c6c13e3f8
-#EXTINF:-1 tvg-id="Premier League TV" group-title="SPORTS LOKAL" tvg-name="Premier League TV" tvg-logo="https://thumbor.prod.vidiocdn.com/2Q9rxrzgEWRJUld4uWVPWzTP5Ok=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", | Premier League TV
-http://code-app.web.id/play.mpd?hash=b94867f23a96af3d9a07d0e051d76acc64f8985806f750aac93223e82521941d
-#EXTINF:-1 tvg-id="Premier League TV" group-title="SPORTS LOKAL" tvg-name="Premier League TV" tvg-logo="https://thumbor.prod.vidiocdn.com/2Q9rxrzgEWRJUld4uWVPWzTP5Ok=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", | Premier League TV
-http://code-app.web.id/play.mpd?hash=b94867f23a96af3d9a07d0e051d76acc64f8985806f750aac93223e82521941d
-#EXTINF:-1 tvg-id="Bein 1" group-title="SPORTS LOKAL" tvg-name="Bein 1" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg", | Bein 1
-http://code-app.web.id/redirect.php?hash=9f0273a9b0b1d2ecad09f062b0ad0272961a7fdc5a87c281e7a0100936a516dd
-#EXTINF:-1 tvg-id="beIN SPORTS 2.my" group-title="SPORTS LOKAL" tvg-name="Bein 2" tvg-logo="https://thumbor.prod.vidiocdn.com/4Gq0GkWs-JKQ0i7xVY6j7Uap14Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-e66e44.jpg", | Bein 2
-http://code-app.web.id/redirect.php?hash=9fa819991a9e8fb7b0dc53aad59461fb854a347ed3059f7b7b4b1a0c8874476d
-#EXTINF:-1 tvg-id="Bein 3" group-title="SPORTS LOKAL" tvg-name="Bein 3" tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg", | Bein 3
-http://code-app.web.id/redirect.php?hash=4582a63c66997cb8014ee13779374ac99d2b816912df1b143374e230ff6178db
-#EXTINF:-1 tvg-id="SPOTV.id" group-title="Olahraga - urfan.id" tvg-name="SPOTV" tvg-logo="https://cdn.urfan.id/logo/spotv.png", | SPOTV
-http://code-app.web.id/play.mpd?hash=0f4486d9a57e5c211912782825f64a17a4f5181f3f265c5e7614111db059b86f
-#EXTINF:-1 tvg-id="SPOTV 2.id" group-title="Olahraga - urfan.id" tvg-name="SPOTV 2" tvg-logo="https://cdn.urfan.id/logo/spotv2.png", | SPOTV 2
-http://code-app.web.id/play.mpd?hash=8273c0a6919b192ff6a94b6122416a27383876e07da4383d46e83b5330f350d9
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" EPL LIVE 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yP0WWKBKr8erTXdidvl32cJwu11JxWyzlg&s", |  EPL LIVE 1
-http://code-app.web.id/redirect.php?hash=5010e3253c53d2cc433a66f984ff00a7b4aee68a90336a8695747e5de6292907
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" NBA TV" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a9muho2q6vod1hv0y84x2sihe_image-header_pDach_1661948923000&quality=70", |  NBA TV
-http://code-app.web.id/redirect.php?hash=279614eaf7d3a1875cb14a1a22837d262a142eb57da063a7dd533c33922f80f1
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" EPL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yP0WWKBKr8erTXdidvl32cJwu11JxWyzlg&s", |  EPL TV
-http://code-app.web.id/redirect.php?hash=3b9ba862e323c23aa31e908b2523bf260706a4929d736d223d5d5b33e6805111
-#EXTINF:-1 tvg-id="beINSports" group-title="SPORTS LOKAL" tvg-name=" beIN Sports 1 (V+)" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", |  beIN Sports 1 (V+)
-http://code-app.web.id/play.mpd?hash=14f1c1d59513dc815bb82f6a3ee66feeb4313cd07599483aa280044e5fda0714
-#EXTINF:-1 tvg-id="beINSports2" group-title="SPORTS LOKAL" tvg-name=" beIN Sports 2 (V+)" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", |  beIN Sports 2 (V+)
-http://code-app.web.id/play.mpd?hash=9545dce160f2e59ee7213a81c872f8a304b9877ff2f58b064ebaa1811dab1327
-#EXTINF:-1 tvg-id="beINSports3" group-title="SPORTS LOKAL" tvg-name=" beIN Sports 3 (V+)" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", |  beIN Sports 3 (V+)
-http://code-app.web.id/play.mpd?hash=6ef8f37f2378ac92d47b9976a02ac919dbe6679b90b297d0c7b105a408c93384
-#EXTINF:-1 tvg-id="beINSports4" group-title="SPORTS LOKAL" tvg-name=" beIN Sports 4 (V+)" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", |  beIN Sports 4 (V+)
-http://code-app.web.id/play.mpd?hash=48b190ffbb2e38699e06c86a5f6b7841306172d65badad3d37e875b36864e4bd
-#EXTINF:-1 tvg-id="beINSports5" group-title="SPORTS LOKAL" tvg-name=" beIN Sports 5 (V+)" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", |  beIN Sports 5 (V+)
-http://code-app.web.id/play.mpd?hash=c5a126b04c0dee214fa31a40fcd1c967ffa0f8f72ca2385b37153dc351cf4aee
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="BEIN SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", | BEIN SPORT 1
-http://code-app.web.id/play.mpd?hash=5de43841ae65d2014b54f30264aa4fb3ad2db6af03f5c5f356c6de73b7f347ec
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="BEIN SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png", | BEIN SPORT 2
-http://code-app.web.id/play.mpd?hash=3525a448b17f4dddc8751c3772a022d86bf2cb4e99c5998f5c3039038ea162e8
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="BEIN SPORT 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_170_122", | BEIN SPORT 3
-http://code-app.web.id/play.mpd?hash=9d7e47fc3436b368399f3292b7119814efe08352b4d42e76096ed92d153636bd
-#EXTINF:-1 tvg-id="beIN SPORTS 4 (HD).sg" group-title="SPORTS LOKAL" tvg-name=" BEIN SPORT 4" tvg-logo="https://i.ibb.co.com/b7vxrzY/Beinsport4.png", |  BEIN SPORT 4
-http://code-app.web.id/play.mpd?hash=a7379a899fb485af28c634989f33c13bbade0d73d664539c71b82d515b6fe0e3
-#EXTINF:-1 tvg-id="beIN SPORT 5 (HD).sg" group-title="SPORTS LOKAL" tvg-name=" BEIN SPORT 5" tvg-logo="https://i.ibb.co.com/4273HXd/Beinsport5.png", |  BEIN SPORT 5
-http://code-app.web.id/play.mpd?hash=f278d13fc0e99cda1da14c93aee8dd5732ca35f8bd8ac44c8233d389d72caa70
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Fight Sports (V+)" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png", | Fight Sports (V+)
-http://code-app.web.id/play.mpd?hash=6f1d931054dc6a678e2252a50e6d9a0fd3866858809ed6b4d1b061a19a80c792
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Horizon Sport (DNS)" tvg-logo="https://images.indihometv.com/logo_horizonsport_ver2.png", | Horizon Sport (DNS)
-http://code-app.web.id/play.m3u8?hash=a863ceb3141d7d173f056f1902f7933787f92d4d6579db06f48cc168f791a275
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Motor Racing (DNS)" tvg-logo="https://www.dens.tv/images/channel-logo/120.jpg", | Motor Racing (DNS)
-http://code-app.web.id/play.m3u8?hash=857a0a81867c19602617d3725c8ccdf7556e5979b56b24bd4521b3ca92cc12fa
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Motorvision+ (DNS)" tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg", | Motorvision+ (DNS)
-http://code-app.web.id/play.m3u8?hash=f725e0f521da4f2968b815787480d9cbbf512c5c0595f7003798cb9dedfcde33
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Soccer Channel (V+)" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png", | Soccer Channel (V+)
-http://code-app.web.id/play.m3u8?hash=3c725b9c8ce52ac931f9a8b4cd1a9ab644f0759d09e767b242c07f98a4db1359
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Sportstars 1" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png", | Sportstars 1
-http://code-app.web.id/play.mpd?hash=fe7e803a61f224c9113c22169fd0b397432e2a77c44eabf21027d67db373f512
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Sportstars 1" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png", | Sportstars 1
-http://code-app.web.id/play.mpd?hash=fe7e803a61f224c9113c22169fd0b397432e2a77c44eabf21027d67db373f512
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Sportstars 1" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png", | Sportstars 1
-http://code-app.web.id/play.mpd?hash=fe7e803a61f224c9113c22169fd0b397432e2a77c44eabf21027d67db373f512
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Sportstars 1" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png", | Sportstars 1
-http://code-app.web.id/play.mpd?hash=fe7e803a61f224c9113c22169fd0b397432e2a77c44eabf21027d67db373f512
-#EXTINF:-1 tvg-id="Sportstars 2.id" group-title="Olahraga - urfan.id" tvg-name="Sportstars 2" tvg-logo="https://cdn.urfan.id/logo/sportstars2.png", | Sportstars 2
-http://code-app.web.id/play.mpd?hash=10f51ae4cac67740dd2174a2002878a86336d26d08a8fc82b3c6a341e729cb2a
-#EXTINF:-1 tvg-id="Sportstars 2.id" group-title="Olahraga - urfan.id" tvg-name="Sportstars 2" tvg-logo="https://cdn.urfan.id/logo/sportstars2.png", | Sportstars 2
-http://code-app.web.id/play.mpd?hash=10f51ae4cac67740dd2174a2002878a86336d26d08a8fc82b3c6a341e729cb2a
-#EXTINF:-1 tvg-id="Sportstars 2.id" group-title="Olahraga - urfan.id" tvg-name="Sportstars 2" tvg-logo="https://cdn.urfan.id/logo/sportstars2.png", | Sportstars 2
-http://code-app.web.id/play.mpd?hash=10f51ae4cac67740dd2174a2002878a86336d26d08a8fc82b3c6a341e729cb2a
-#EXTINF:-1 tvg-id="Sportstars 2.id" group-title="Olahraga - urfan.id" tvg-name="Sportstars 2" tvg-logo="https://cdn.urfan.id/logo/sportstars2.png", | Sportstars 2
-http://code-app.web.id/play.mpd?hash=10f51ae4cac67740dd2174a2002878a86336d26d08a8fc82b3c6a341e729cb2a
-#EXTINF:-1 tvg-id="SS3" group-title="SPORTS LOKAL" tvg-name=" SPORTSTARS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", |  SPORTSTARS 3
-http://code-app.web.id/play.mpd?hash=300896ae9edec57b27d89b0f469fde1e613009afd827216244db705e0da32d86
-#EXTINF:-1 tvg-id="SS4" group-title="SPORTS LOKAL" tvg-name=" SPORTSTARS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png", |  SPORTSTARS 4 HD
-http://code-app.web.id/play.mpd?hash=5cba03b6a82e08f2dd3cf89e529aff3c3d45ccdbd8b0922fe53dd8431401952a
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" PSJ TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4H0UwKvsEtvscNX69qd6gwps2m65V0J7iuA&usqp=CAU", |  PSJ TV
-http://code-app.web.id/play.m3u8?hash=e0fe8a9ea711fad68e227308d977202cea02e2111c3f2caf06199c06bd888104
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="SpoTV (V+)" tvg-logo="https://img.logo-cdn.cc/sportsspotv.png", | SpoTV (V+)
-http://code-app.web.id/play.mpd?hash=c2f39028fa2d208ab7bf4221ac699baf10ffe9c66c0acfbcf3c7faf737315b10
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="SpoTV 2 (V+)" tvg-logo="https://img.logo-cdn.cc/sportsspotv2.png", | SpoTV 2 (V+)
-http://code-app.web.id/play.mpd?hash=0cc32de9f6d261cd8ae934ff4581ddb0c8a3ad129a5c8321dc3fd63387ee922d
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Eurosport HD (FMX)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhNq4kBDjEWVVd0NnMCwhqPYaddZgSbTnnA&usqp=CAU", | Eurosport HD (FMX)
-http://code-app.web.id/play.mpd?hash=4e0ddac224d250af878565c7d336db4be9de6f738b7c5414381f329fd5efa184
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="SPOTV (FMX)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsL11Yy9FEemPymTKFTuKCVRlufgmZ12R2dQ&usqp=CAU", | SPOTV (FMX)
-http://code-app.web.id/play.mpd?hash=f9eae7b8c48e2bc550d5a75e89ad022431e4bd72698505a5d933de6503a1ce9e
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="SPOTV 2 (FMX)" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20SD-FirstMedia-Chl-140.jpg&w=1920&q=100", | SPOTV 2 (FMX)
-http://code-app.web.id/play.mpd?hash=39600bc60ba878dbca2a052819e16a7bf0f7560c3fec4346f7d69ab692959cc5
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Soccer Channel-HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png", | Soccer Channel-HD
-http://code-app.web.id/play.mpd?hash=a04d4d54182122dc4fafaea2056125f7228b96353364a9fdd0820488655fb232
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="TVRI Sport (Dens)" tvg-logo="https://i.ibb.co/42dwcpw/Tvri-sport-hometv.jpg", | TVRI Sport (Dens)
-http://code-app.web.id/play.m3u8?hash=8ac4fba701417505e375129d26520a148064594a671db3e90a1c0102d7ab4b2e
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name=" TVRI SPORT WEB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEQDx4NnVtO6r9pqp8TDMQdSBGa_E4MFpmDvkV0dUg&s", |  TVRI SPORT WEB
-http://code-app.web.id/redirect.php?hash=47ea5727cacede7749e9569a9cf66635de79b1a63bc80682ae8286e716d9c37b
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Wsport (DNS)" tvg-logo="https://www.dens.tv/images/channel-logo/123.jpg", | Wsport (DNS)
-http://code-app.web.id/play.m3u8?hash=fd906b7d071a657bc09952d8b83753517cc03512b78ae560b31fc5b12834b880
-#EXTINF:-1 tvg-id="golf.id" group-title="Olahraga - urfan.id" tvg-name="Golf+" tvg-logo="https://cdn.urfan.id/logo/golf+.png", | Golf+
-http://code-app.web.id/play.mpd?hash=b78b309cc7b834bf1307b3394ee32ff365d64f639033c0a8b8aec65981d86783
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Football TV (CUBMU)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbVQRXaV4mmzu6JElzDRkc10pu1d0kxQWVVg&usqp=CAU", | Football TV (CUBMU)
-http://code-app.web.id/play.mpd?hash=0c2821ad604d3933fd2eec5fe016179854d5f863add930e9bac82064911b30dd
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Historical Sports (CUBMU)" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68578b331d80178b98f30f521de/a183b673e94841bd8aba200be9599aac.png", | Historical Sports (CUBMU)
-http://code-app.web.id/play.mpd?hash=51a214509c18751f2ab267faaa323a42d5d1a531830c3a745557c926b4283e35
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Horizon Sports (CUBMU)" tvg-logo="https://www.transvision.co.id/img/channel/horizon_sports.png", | Horizon Sports (CUBMU)
-http://code-app.web.id/play.mpd?hash=600e5a6d0835b6d4114b43277bb3c5c0305ee8e3bfb6a23b132971d9709a35b7
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Fight TV (CUBMU)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUQvwqEdRoGLc6sIDOfBPd48N7PTb-g4ANg&usqp=CAU", | Fight TV (CUBMU)
-http://code-app.web.id/play.mpd?hash=9f511d29501cf6528dc87437448ba06a2badbbb6df577857aaf510397ee5dac7
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="IDCyclist (CUBMU)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwC0IVntvUjuTWG5zm3EUuIRzgYmuY92v_6Q&usqp=CAU", | IDCyclist (CUBMU)
-http://code-app.web.id/play.mpd?hash=abfc75242276502fd942e5d60fcd3a5f1b3aa708abb84f31c1d54432d3108b33
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Xtrem Sports (CUBMU)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4LZwmwUHgXivUCnufIZ6xjD4ZV35YFKXUw&usqp=CAU", | Xtrem Sports (CUBMU)
-http://code-app.web.id/play.mpd?hash=d68b19d0aa1d2549d7bd2ba8b5654bc36295a48cb74ce7ac09b8a26b362a24dc
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Sports TV (CUBMU)" tvg-logo="https://www.transvision.co.id/img/channel/new/SPORTS%20TV.jpg", | Sports TV (CUBMU)
-http://code-app.web.id/play.mpd?hash=3f0ee69568c2edb341c8382131698c2390c0cd5a40a1107dd661ffbae25e68d7
-#EXTINF:-1 group-title="SPORTS LOKAL" tvg-name="Speed TV (CUBMU)" tvg-logo="https://www.transvision.co.id/img/channel/new/Speed%20TV.jpg", | Speed TV (CUBMU)
-http://code-app.web.id/play.mpd?hash=d4356ba3dd9177585fe3d4b15cfed1f059d0df8c58d48577e211ec2f91138b3c
+#EXTINF:-1,ANTV
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#EXTINF:-1,INDOSIAR 1
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1,INDOSIAR 2
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Indosiar.m3u8
+#EXTINF:-1,INDOSIAR 3
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
+#EXTINF:-1,INDOSIAR 4
+http://filex.tv:8080/live/aftab123/004090/302264.m3u8
+#EXTINF:-1,INDOSIAR LIGA
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
+#EXTINF:-1,MNC TV 1
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#EXTINF:-1,MNC TV 2
+https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1,RCTI 1
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:-1,RCTI 2
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1,SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1,METRO TV
+http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1,KOMPAS TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:-1,TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1,TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+#EXTINF:-1,GLOBAL TV
+https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1,TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
+#EXTINF:-1,CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
+#EXTINF:-1,CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+#EXTINF:-1,TV ONE
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1,INEWS
+https://allcutv.rctiplus.id/inews2023.m3u8
+#EXTINF:-1,RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF:-1,NET TV 1
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1,NET TV 2
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NetTV.m3u8
+#EXTINF:-1,NET TV 3
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505860
+#EXTINF:-1,MOJI TV
+http://xtv.ooo:8080/30912088/60996054/350997
+#EXTINF:-1,MOJI TV 2
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+#EXTINF:-1,MOJI TV 3
+https://mantul.biz.id:443/inetwork/gayanet12/8251
+#EXTINF:-1,MOJI TV 4
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1,BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1,NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1,BN CHANNEL
+https://flv.intechmedia.net/live/ch112.m3u8
+#EXTINF:-1,IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1,VTV
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1,DAAI
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1,INDONESIANA TV
+https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:-1,GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+#EXTINF:-1,Mentari TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:-1,MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1,INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1,TV KESEHATAN
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,BALIKPAPAN TV
+https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/chunklist_w1862740263.m3u8
+#EXTINF:-1,BANDUNG TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1,JAWAPOS TV
+https://63b2dc7196c38.streamlock.net:1937/sabantentv/myStream/chunklist_w1424683093.m3u8
+#EXTINF:-1,JTV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1,NATUNA TV
+https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
+#EXTINF:-1,PADANG TV
+http://63b2dc7196c38.streamlock.net:1935/ch16/myStream/playlist.m3u8
+#EXTINF:-1,PJTV
+https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
+#EXTINF:-1,PON TV
+https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w1512074302.m3u8
+#EXTINF:-1,PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:-1,RCTV CIREBON
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1,SAKTI TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1,SIMPANG 5 TV
+http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
+#EXTINF:-1,SMTV SUMEDANG
+http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
+#EXTINF:-1,SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:-1,DW
+http://210.210.155.37/qwr9ew/s/s11/index.m3u8
+#EXTINF:-1,TV DESA
+https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/chunklist_w1952744023.m3u8
+#EXTINF:-1,TABALONG TV
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1,UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1,AFB TV
+https://flv.intechmedia.net/live/ch54.m3u8
+#EXTINF:-1,MADU TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1,KSTV
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+#EXTINF:-1,KAWANUA TV
+https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/chunklist_w1055048719.m3u8
+#EXTINF:-1,DHOHO TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,LINGKAR TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1,SANGAJI TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+#EXTINF:-1,PRIMA TV
+https://primatv.siar.us/primatv/live/playlist.m3u8
+#EXTINF:-1,BANTEN TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:-1,AKTV
+https://e.siar.us/live/aktv.m3u8
+#EXTINF:-1,JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1252882926.m3u8
+#EXTINF:-1,BUNGO TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:-1,TIMOR TV
+https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
+#EXTINF:-1,TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1,DUTA TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1,DMTV MALANG
+https://e.siar.us/live/dmtv.m3u8
+#EXTINF:-1,BMSTV
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+#EXTINF:-1,JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1,SEMARANG TV
+http://116.254.112.74:80/hls/cakralive.m3u8
+#EXTINF:-1,PKTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+#EXTINF:-1,BANJAR TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+#EXTINF:-1,BE TV
+https://flv.intechmedia.net/live/ch58.m3u8
+#EXTINF:-1,JAYA TV
+https://flv.intechmedia.net/live/ch52.m3u8
+#EXTINF:-1,BATAM TV
+http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
+#EXTINF:-1,DHAMMA TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1,JAMBI TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
+#EXTINF:-1,JEK TV
+https://63b2dc7196c38.streamlock.net:1937/ch14/myStream/playlist.m3u8
+#EXTINF:-1,PAL TV
+https://flv.intechmedia.net/live/ch18.m3u8
+#EXTINF:-1,RADAR TV TASIKMALAYA
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+#EXTINF:-1,RBTV
+https://flv.intechmedia.net/live/ch59.m3u8
+#EXTINF:-1,RIAU TV
+https://63b2dc7196c38.streamlock.net:1937/riautv/myStream/playlist.m3u8
+#EXTINF:-1,SAMPIT TV
+https://flv.intechmedia.net/live/ch56.m3u8
+#EXTINF:-1,TEGAR TV
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+#EXTINF:-1,MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1,TV 9
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1,MAKKAH TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1,DEI KIDS 1
+https://e.siar.us/live/deikidstv.m3u8
+#EXTINF:-1,TV10
+https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
+#EXTINF:-1,RODJA
+https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8
+#EXTINF:-1,RODJA 2
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1,BRTV
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+#EXTINF:-1,WESAL TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1,ARTVISI AUDIO
+https://streaming.yufid.com/hls/artvisi.m3u8
+#EXTINF:-1,MADANI TV
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+#EXTINF:-1,SALING SAPA TV
+https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1,TV SUNNAH
+https://streaming.yufid.com/hls/radiokitatv.m3u8
+#EXTINF:-1,ASHIL TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+#EXTINF:-1,SURAU TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+#EXTINF:-1,NIAGA TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/niagatv.m3u8
+#EXTINF:-1,ASTRO AL-HIJRAH
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/index.m3u8
+#EXTINF:-1,ASTRO OASIS
+http://iptv12k.com:35461/654321/123456/11291
+#EXTINF:-1,NAJIYA TV
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCO4twEoisQIhNFqU1Sjyr0Q
+#EXTINF:-1,RADIO ZIKIR PAGI
+https://ia800309.us.archive.org/25/items/DzikirPagiPetangRadioRodja/DzikirPagi.mp3
+#EXTINF:-1,RADIO ZIKIR PETANG
+https://ia600309.us.archive.org/25/items/DzikirPagiPetangRadioRodja/DzikirSore_hiss_reduce.mp3
+#EXTINF:-1,RADIO MUSLIM JOGJA
+https://streaming.radiomuslim.com/;?1736409962231
+#EXTINF:-1,RADIO RODJA
+https://radioislamindonesia.com/rodja-low.mp3?_=1
+#EXTINF:-1,RADIO KITA CIREBON
+https://sunnah.radio.yufid.com/;stream.mp3
+#EXTINF:-1,RADIO RUKYAH
+https://stream-40.zeno.fm/pz72fq579f0uv?zs=Ul5sqtHcSt2egYs9SrjFzw
+#EXTINF:-1,RADIO QUR'AN INDO
+https://stream-47.zeno.fm/agv8w1xp1uhvv?zs=1ePJ9DYIT6KWrd2_cc08sg
+#EXTINF:-1,RADIO DEI FM
+https://live.radiodeifm.com/8118/stream;?1736405447503
+#EXTINF:-1,RADIO HIJRAH FM
+https://streaming.hijrahfm.com/;?1736409831439
+#EXTINF:-1,RADIO AL-IMAN
+https://radioislamindonesia.com/aliman.mp3?_=2
+#EXTINF:-1,RADIO TARBIYAH SUNNAH
+https://radioislamindonesia.com/tarbiyah.mp3?_=1
+#EXTINF:-1,RADIO HANG
+http://185.47.62.52:8000/
+#EXTINF:-1,RADIO SYIAR TAUHID ACEH
+http://45.64.97.82:8260/;
+#EXTINF:-1,RADIO TAFSIR AL-QUR'AN
+http://206.72.199.179:9992/
+#EXTINF:-1,RADIO KSA SUNNAH
+https://radiosunna.radioca.st/stream
+#EXTINF:-1,RADIO SUNNAH
+http://pu.klikhost.com:7204/stream?1672828237600
+#EXTINF:-1,RADIO SAHABAT
+https://radioislamindonesia.com/shahabatmuslim.mp3
+#EXTINF:-1,RADIO AR-RISALAH
+https://pu.klikhost.com/proxy/dasa/stream
+#EXTINF:-1,RADIO INSANI
+https://insanifm.radio.yufid.com/;?1736397847718
+#EXTINF:-1,RADIO HIDAYAH
+https://radioislamindonesia.com/radiohidayah.mp3
+#EXTINF:-1,RADIO RJFM
+https://a4.siar.us:8230/rjfm
